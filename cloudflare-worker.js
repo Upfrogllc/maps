@@ -14,7 +14,7 @@
  *   3. Deploy → copy your worker URL
  *   4. Paste the worker URL into PAGE1-sizer.html as WORKER_URL
  * ═══════════════════════════════════════════════════════════════
- */
+ */ 
 
 // CORS headers — allows your GHL pages to call this worker
 const CORS = {
